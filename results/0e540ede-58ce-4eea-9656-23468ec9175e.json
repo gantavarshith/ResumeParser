@@ -1,0 +1,80 @@
+{
+    "name": "Penmetsa Sahithi",
+    "email": "sahivarma04@gmail.com",
+    "phone": "+91-8341001066",
+    "skills": [
+        "Python",
+        "SQL",
+        "Java",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "MS Office",
+        "Google Colab",
+        "VS Code",
+        "Tableau",
+        "Jupyter Notebook",
+        "Windows",
+        "Linux",
+        "HackerRank",
+        "LeetCode",
+        "Data Structures",
+        "DBMS",
+        "Data Visualization",
+        "Communication",
+        "Leadership",
+        "Problem Solving",
+        "Collaboration",
+        "Time Management",
+        "Critical Thinking",
+        "Analytical Reasoning",
+        "PHP",
+        "React.js",
+        "MySQL",
+        "Apache",
+        "Tailwind CSS",
+        "Pygame",
+        "Swing",
+        "CI/CD",
+        "DevOps"
+    ],
+    "projects": [
+        {
+            "name": "ConserveCo \u2013 A ZeroWaste Store",
+            "description": "Designed a zero-waste e-commerce platform promoting sustainable and eco-conscious shopping. Built secure login, product catalog, cart management, and checkout modules using MVC architecture.",
+            "year": "2024 \u2013 Present"
+        },
+        {
+            "name": "Hare and Hounds",
+            "description": "Developed a strategic board game where hounds attempt to corner the hare. Implemented animations, sound, and dynamic board movement with pathfinding features using Python and Pygame.",
+            "year": "2024"
+        },
+        {
+            "name": "Expression Converter",
+            "description": "Developed GUI-based application simulating core functionalities of a social media feed. Implemented Sign Up, Login, and Logout modules for authentication using Java and Swing.",
+            "year": "2023"
+        }
+    ],
+    "experience": [],
+    "education": [
+        {
+            "degree": "Bachelor of Technology, Computer Science",
+            "institution": "BVRIT Hyderabad College of Engineering for Women, Hyderabad",
+            "year": "2023 \u2013 2027",
+            "score": "7.2 CGPA"
+        },
+        {
+            "degree": "Telangana State Board of Intermediate Education",
+            "institution": "Resonance Junior College, Hyderabad",
+            "year": "2021 \u2013 2023",
+            "score": "76%"
+        },
+        {
+            "degree": "Central Board of Secondary Education",
+            "institution": "Silver Oaks International School, Hyderabad",
+            "year": "2012 \u2013 2021",
+            "score": "81%"
+        }
+    ],
+    "id": "0e540ede-58ce-4eea-9656-23468ec9175e"
+}

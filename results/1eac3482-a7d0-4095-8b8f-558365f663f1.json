@@ -1,0 +1,63 @@
+{
+    "name": "PENUMETCHA KARTIKEYA VARMA",
+    "email": "karthikeyavarma89@gmail.com",
+    "phone": "+91-7659983762",
+    "skills": [
+        "Python",
+        "Java",
+        "C",
+        "HTML5",
+        "CSS3",
+        "MySQL",
+        "MongoDB",
+        "pandas",
+        "numpy",
+        "Vs Code",
+        "Anaconda",
+        "Git",
+        "kaggle",
+        "scikit-learn",
+        "TensorFlow",
+        "Feature Engineering",
+        "Model Evaluation",
+        "Data Analysis",
+        "Machine Learning",
+        "DSA",
+        "OOP",
+        "Responsive UI Design"
+    ],
+    "projects": [
+        {
+            "name": "RecME | Film Recommendation System",
+            "description": "Developed an AI-powered movie recommender using Flask and TMDB API. Implemented content-based and collaborative filtering for personalized suggestions and integrated real-time movie data with a responsive UI.",
+            "year": "2026 - Present"
+        },
+        {
+            "name": "JustiDesk | AI Legal Assistance Platform",
+            "description": "Built an NLP-based system to analyze and classify user legal queries into relevant categories. Provides basic legal information, rights, references, and enables lawyer appointment booking.",
+            "year": "2025 - Present"
+        }
+    ],
+    "experience": [],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering (Computer Science Spec.(AIML))",
+            "institution": "Parul University",
+            "year": "2023 - Present",
+            "score": "6.91/10"
+        },
+        {
+            "degree": "Class 12th - State Board",
+            "institution": "VIGNAN Jr. College",
+            "year": "2023",
+            "score": "92.1%"
+        },
+        {
+            "degree": "Class 10th \u2013 State Board",
+            "institution": "Quantum Modern Mission School",
+            "year": "2021",
+            "score": "9.8/10"
+        }
+    ],
+    "id": "1eac3482-a7d0-4095-8b8f-558365f663f1"
+}

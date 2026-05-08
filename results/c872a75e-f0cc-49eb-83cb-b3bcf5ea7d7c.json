@@ -1,0 +1,58 @@
+{
+    "name": "PENUMETCHA KARTIKEYA VARMA",
+    "email": "karthikeyavarma89@gmail.com",
+    "phone": "+91-7659983762",
+    "skills": [
+        "Python",
+        "Java",
+        "C",
+        "HTML5",
+        "CSS3",
+        "MySQL",
+        "MongoDB",
+        "pandas",
+        "numpy",
+        "Vs Code",
+        "Anaconda",
+        "Git",
+        "kaggle",
+        "scikit-learn",
+        "TensorFlow",
+        "Feature Engineering",
+        "Model Evaluation"
+    ],
+    "projects": [
+        {
+            "name": "RecME | Film Recommendation System",
+            "description": "Developed an AI-powered movie recommender using Flask and TMDB API. Implemented content-based and collaborative filtering for personalized suggestions. Integrated real-time movie data with responsive UI.",
+            "year": "January 2026 \u2013 Present"
+        },
+        {
+            "name": "JustiDesk | AI Legal Assistance Platform",
+            "description": "Built an NLP-based system to analyze and classify user legal queries. Provides basic legal information, rights, and references, enabling users to find lawyers and book appointments.",
+            "year": "December 2025 \u2013 Present"
+        }
+    ],
+    "experience": [],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering (Computer Science Spec.(AIML))",
+            "institution": "Parul University",
+            "year": "2023 \u2013 Present",
+            "score": "CGPA 6.91/10"
+        },
+        {
+            "degree": "Class 12th - State Board",
+            "institution": "VIGNAN Jr. College",
+            "year": "2023",
+            "score": "92.1%"
+        },
+        {
+            "degree": "Class 10th \u2013 State Board",
+            "institution": "Quantum Modern Mission School",
+            "year": "2021",
+            "score": "CGPA 9.8/10"
+        }
+    ],
+    "id": "c872a75e-f0cc-49eb-83cb-b3bcf5ea7d7c"
+}

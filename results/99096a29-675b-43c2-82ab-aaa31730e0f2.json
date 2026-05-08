@@ -1,0 +1,62 @@
+{
+    "name": "GANTA VARSHITH REDDY",
+    "email": "reddyvaru12@gmail.com",
+    "phone": "+91-8686848441",
+    "skills": [
+        "Python (Data Analysis & ML, DSA)",
+        "Java (OOP)",
+        "C",
+        "HTML5",
+        "CSS3",
+        "Responsive UI Design",
+        "MySQL",
+        "CRUD Operations",
+        "Basic Query Optimization",
+        "MongoDB",
+        "pandas",
+        "numpy",
+        "keras",
+        "Vs Code",
+        "Anaconda",
+        "Git",
+        "kaggle",
+        "scikit-learn",
+        "TensorFlow",
+        "Feature Engineering",
+        "Model Evaluation"
+    ],
+    "projects": [
+        {
+            "name": "RecME | Film Recommendation System",
+            "description": "Developed an AI-powered movie recommender using Flask and TMDB API. Implemented content-based and collaborative filtering for personalized suggestions. Integrated real-time movie data (posters, ratings) with responsive UI.",
+            "year": "2026 \u2013 Present"
+        },
+        {
+            "name": "JustiDesk | AI Legal Assistance Platform",
+            "description": "Built an NLP-based system to analyze and classify user legal queries into relevant categories. Provides basic legal information, rights, and references, and enables users to find lawyers and book appointments easily.",
+            "year": "2025 \u2013 Present"
+        }
+    ],
+    "experience": [],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering (Computer Science Spec.(AIML) )",
+            "institution": "Parul University",
+            "year": "2023 \u2013 Present",
+            "score": "CGPA 7.66/10"
+        },
+        {
+            "degree": "Class 12th - State Board",
+            "institution": "SR JUNIOR COLLEGE",
+            "year": "2023",
+            "score": "91.7%"
+        },
+        {
+            "degree": "Class 10th \u2013 State Board",
+            "institution": "St. Gaberials High School",
+            "year": "2021",
+            "score": "CGPA 10/10"
+        }
+    ],
+    "id": "99096a29-675b-43c2-82ab-aaa31730e0f2"
+}

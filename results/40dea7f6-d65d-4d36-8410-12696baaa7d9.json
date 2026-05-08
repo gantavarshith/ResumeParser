@@ -1,0 +1,43 @@
+{
+    "name": "Shir Rosenstein",
+    "email": "sheetal@example.com",
+    "phone": "316.555.0136",
+    "skills": [
+        "Performing venipuncture",
+        "capillary puncture procedures",
+        "Processing blood samples",
+        "laboratory protocols",
+        "medical terminology",
+        "patient privacy regulations"
+    ],
+    "projects": [],
+    "experience": [
+        {
+            "title": "Phlebotomist",
+            "company": "Lamna Healthcare",
+            "duration": "Jan 20XX \u2014 present",
+            "description": "This is the place for a summary of your key responsibilities and most stellar accomplishments"
+        },
+        {
+            "title": "Phlebotomist",
+            "company": "Wholeness Healthcare",
+            "duration": "Feb 20XX \u2014 Jan 20XX",
+            "description": "This is the place for a summary of your key responsibilities and most stellar accomplishments"
+        },
+        {
+            "title": "Phlebotomist",
+            "company": "Swan Sonia Healthcare",
+            "duration": "Dec 20XX \u2014 Jul 20XX",
+            "description": "This is the place for a summary of your key responsibilities and most stellar accomplishments"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associates in Phlebotomy",
+            "institution": "Bellows College",
+            "year": "20XX",
+            "score": null
+        }
+    ],
+    "id": "40dea7f6-d65d-4d36-8410-12696baaa7d9"
+}

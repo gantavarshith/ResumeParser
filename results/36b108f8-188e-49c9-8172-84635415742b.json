@@ -1,0 +1,46 @@
+{
+    "name": "KRISTI LARR",
+    "email": "kristi@example.com",
+    "phone": "909.555.0100",
+    "skills": [
+        "Communication",
+        "Patient education",
+        "Counseling",
+        "Patient safety",
+        "Patient satisfaction",
+        "Anatomy and physiology",
+        "Pharmacology",
+        "Nursing ethics",
+        "Patient care management"
+    ],
+    "projects": [],
+    "experience": [
+        {
+            "title": "Registered Nurse | Pediatrics",
+            "company": "Wholeness Healthcare",
+            "duration": "November 20XX\u2013October 20XX",
+            "description": "Delivering high-quality care while maintaining patient safety and satisfaction."
+        },
+        {
+            "title": "Registered Nurse | General Practice",
+            "company": "Wholeness Healthcare",
+            "duration": "December 20XX\u2013November 20XX",
+            "description": "Delivering high-quality care while maintaining patient safety and satisfaction."
+        },
+        {
+            "title": "Registered Nurse | General Practice",
+            "company": "Tyler Stein MD",
+            "duration": "September 20XX\u2013August 20XX",
+            "description": "Delivering high-quality care while maintaining patient safety and satisfaction."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors of Science in Nursing",
+            "institution": "Bellows College | Madison, WI",
+            "year": null,
+            "score": null
+        }
+    ],
+    "id": "36b108f8-188e-49c9-8172-84635415742b"
+}
