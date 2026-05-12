@@ -1,0 +1,41 @@
+{
+    "name": "Estelle Darcy",
+    "email": "hello@reallygreatsite.com",
+    "phone": null,
+    "skills": [
+        "Photo editing and digital illustration software",
+        "Social media suites management software",
+        "Tracking analytics tools",
+        "Word processors"
+    ],
+    "projects": [],
+    "experience": [
+        {
+            "title": "SOCIAL MEDIA PRODUCER",
+            "company": "Pixelpoint Hive",
+            "duration": "2024-2026",
+            "description": "Managed social media accounts; Created social media graphics for daily posting; Increased social media following and clicks by an average of 200% yearly."
+        },
+        {
+            "title": "SOCIAL MEDIA PRODUCER",
+            "company": "Pixelpoint Hive",
+            "duration": "2024-2026",
+            "description": "Organizes all social media posts for the editorial department; Approves all content to be posted on social media; Engages with readers and clients online."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of arts; major in communication",
+            "institution": "University of dundee",
+            "year": "2019-2022",
+            "score": null
+        },
+        {
+            "degree": "Course in Digital Marketing",
+            "institution": "University of Mac Lane and Knightsl",
+            "year": "2022-2024",
+            "score": null
+        }
+    ],
+    "id": "93789939-e79f-4698-957f-b19b016f88c7"
+}

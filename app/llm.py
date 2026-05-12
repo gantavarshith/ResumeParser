@@ -28,7 +28,6 @@ def extract_resume_data(text):
         except Exception as e:
             print(f"Gemini extraction error: {e}")
 
-    # Fallback to OpenAI
     if openai_key and not openai_key.startswith("your_") and not openai_key == "dummy_key":
         try:
             client = OpenAI(api_key=openai_key)

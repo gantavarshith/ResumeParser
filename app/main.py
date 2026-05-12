@@ -2,7 +2,7 @@ from fastapi import FastAPI, UploadFile, File
 import shutil
 import os
 
-from .parser import extract_pdf_text, extract_docx_text
+from .parser import extract_pdf_text, extract_docx_text, extract_scanned_pdf_text, extract_image_text
 from .llm import extract_resume_data
 from .schemas import ResumeSchema
 import uuid
@@ -28,8 +28,15 @@ async def upload_resume(file: UploadFile = File(...)):
     if file.filename.endswith(".pdf"):
         text = extract_pdf_text(file_path)
 
+        if len(text.strip()) < 50:
+            print("Using OCR fallback...")
+            text = extract_scanned_pdf_text(file_path)
+
     elif file.filename.endswith(".docx"):
         text = extract_docx_text(file_path)
+
+    elif file.filename.endswith(".jpg") or file.filename.endswith(".png"):
+        text = extract_image_text(file_path)
 
     else:
         return {
